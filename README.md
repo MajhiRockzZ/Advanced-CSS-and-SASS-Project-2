@@ -1,1 +1,3 @@
-# Trillo  🦜 
+# Trillo Project 🦜 
+
+ 💡 ***Using Flexbox***
