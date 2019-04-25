@@ -1,3 +1,3 @@
 # Trillo Project 🦜 
 
- 💡 ***Using Flexbox***
+ 💡 ***Using Flexbox Layouts***
